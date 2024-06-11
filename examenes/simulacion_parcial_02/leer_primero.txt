@@ -1,0 +1,27 @@
+
+
+
+
+
+
+Esto es una simulación del Parcial 2.
+
+No hay que entregarlo.
+
+Es para que lo puedan resolver en sus casas y tengan una aproximación de como va a ser el Parcial 2 y también el final.
+
+En el parcial se van a tomar menos cantidad de ejercicios para que puedan resolverlo en el lapso de 2hs.
+
+Recomendaciones:
+
+    - Los ejercicios teoricos, lo pueden escribir directamente como comentario debajo de la pregunta.
+    - Siempre que puedan, hacer un pseudocódigo, o un diagrama de flujo, para ver como van a resolver el problema.
+    - Pensar el algortimo antes de empezar a escribir código. Pensarlo en borrador con tranquilidad.
+    - Resolver primero todos los ejercicios, que funcionen bien, y luego refactorizar el código para que quede más prolijo, y mejorado.
+    - Intentar hacer funciones pequeñas que resuelvan una sola cosa. Y luego llamarlas desde el archivo principal, o en el mismo script.
+
+
+"""
+
+
+
