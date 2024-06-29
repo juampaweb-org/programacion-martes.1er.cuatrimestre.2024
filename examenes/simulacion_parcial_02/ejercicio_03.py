@@ -10,3 +10,6 @@
 
 
 
+import datetime
+
+fecha_hora_actual = datetime.datetime.strftime(datetime.datetime.now(), "%Y-%m-%d %H:%M:%S")

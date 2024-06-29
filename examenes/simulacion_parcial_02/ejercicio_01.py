@@ -12,3 +12,7 @@
 # Imprima en pantalla el procesador que está siendo utilizado.
 
 
+import platform
+
+# nombre del sistema operativo
+print(dir(platform.))

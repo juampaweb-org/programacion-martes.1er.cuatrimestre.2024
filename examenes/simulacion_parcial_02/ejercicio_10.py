@@ -15,8 +15,15 @@ def dividir():
     num1 = input("Ingrese el primer número: ")
     num2 = input("Ingrese el segundo número: ")
     
-    resultado = float(num1) / float(num2)
-    
+    try:
+        resultado = float(num1) / float(num2)
+    except ZeroDivisionError:
+        print("Error: No se puede dividir por cero.")
+        return
+    except ValueError:
+        print("Error: Ingrese solo números.")
+        return
+
     print(f"El resultado de la división es: {resultado}")
 
 def leer_y_escribir_archivo():
